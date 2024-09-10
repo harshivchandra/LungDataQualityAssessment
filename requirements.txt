@@ -1,1 +1,0 @@
-SpykeTorch-miladmozafari @ git+https://github.com/miladmozafari/SpykeTorch.git@aa302c77cb61de6ec64e40927313137a9855ec6a
